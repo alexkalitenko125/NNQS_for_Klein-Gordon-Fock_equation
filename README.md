@@ -6,8 +6,8 @@ In this article, we present a method for finding quantum stationary states using
 ## Equation 
 $$[E-V]^2 \psi(x) = \left[ -\hbar^2 c^2 \frac{d^2}{dx^2}+ m^2c^4 \right]\psi(x)$$
 
-
-<img src="./1.png"  width="500" 
+## Example
+<img src="./1.png"  width="700" 
      height=auto>
 
 
