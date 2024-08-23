@@ -12,5 +12,5 @@ $$[E-V]^2 \psi(x) = \left[ -\hbar^2 c^2 \frac{d^2}{dx^2}+ m^2c^4 \right]\psi(x)$
 
 The neural network architecture used in our study and the optimization
 process are illustrated in the feedback loop.
-<img src="./NN.pdf"  width="500" 
+<img src="./NN.png"  width="500" 
      height=auto>
