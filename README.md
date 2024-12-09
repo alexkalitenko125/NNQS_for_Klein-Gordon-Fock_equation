@@ -1,7 +1,11 @@
 # NNQS_for_Klein-Gordon-Fock_equation
 NNQS for the Klein--Gordon--Fock equation
 
-In this article, we present a method for finding quantum stationary states using the Klein--Gordon--Fock (KGF) equation and neural networks (NNs). The method has been tested on two well-known systems: a relativistic spinless particle in a Coulomb potential, and a one-dimensional relativistic harmonic oscillator. The results of training the neural network for these two systems are presented, as well as the analysis of the training process. The neural network method shows good agreement with analytical calculations, when can we find them, providing a promising approach for solving more complex problems in quantum physics and  quantum chemistry.
+In this article, we present a method for finding quantum stationary states of the Klein–Gordon–Fock (KGF) equation using neural networks (NNs). The method has been tested on two well-known systems: a relativistic spinless particle in a Coulomb potential, and a one-dimensional relativistic harmonic oscillator. The results of training the neural network for these two systems are presented, as well as the analysis of the training process. The neural network method shows a good agreement with analytical calculations (if they can be found explicitly), providing a promising approach for solving more complex problems in quantum physics and quantum chemistry.
+
+See https://en.num-meth.ru/index.php/journal/article/view/1379/1301
+
+A. M. Kalitenko and P. I. Pronin, “On the possibility of using the NNQS for the Klein–Gordon–Fock equation,” Numerical Methods and Programming 25, no. 4 (2024): 464–475, https://doi.org/10.26089/NumMet.v25r435
 
 
 ## Equation 
