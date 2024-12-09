@@ -5,7 +5,7 @@ In this article, we present a method for finding quantum stationary states of th
 
 See the article  https://en.num-meth.ru/index.php/journal/article/view/1379/1301
 
-A. M. Kalitenko and P. I. Pronin, “On the possibility of using the NNQS for the Klein–Gordon–Fock equation,” Numerical Methods and Programming 25, no. 4 (2024): 464–475, https://doi.org/10.26089/NumMet.v25r435
+A. M. Kalitenko and P. I. Pronin, “On the possibility of using the NNQS for the Klein–Gordon–Fock equation,” Numerical Methods and Programming 25, no. 4 (2024): 464–475.
 
 
 ## Equation 
