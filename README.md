@@ -12,6 +12,8 @@ A. M. Kalitenko and P. I. Pronin, “On the possibility of using the NNQS for th
 $$[E-V]^2 \psi(x) = \left[ -\hbar^2 c^2 \frac{d^2}{dx^2}+ m^2c^4 \right]\psi(x)$$
 
 ## Example
+<img src="./1.png"  width="700" 
+     height=auto>
 
 
 The neural network architecture used in our study and the optimization
