@@ -1,0 +1,16 @@
+This section provides academic and non-academic links 
+
+
+1) A. M. Kalitenko and P. I. Pronin, “On the possibility of using the NNQS for the Klein–Gordon–Fock equation,” Numerical Methods and Programming 25, no. 4 (2024): 464–475.
+https://en.num-meth.ru/index.php/journal/article/view/1379/1301
+2) G. Carleo and M. Troyer, “Solving the Quantum Many-Body Problem with Artificial Neural Networks,” Science355(6325), 602–606 (2017). doi10.1126/science.aag2302.
+3) R. G. Melko, G. Carleo, J. Carrasquilla, and J. I. Cirac, “Restricted Boltzmann Machines in Quantum Physics,” Nat. Phys.15, 887–892 (2019). doi10.1038/s41567-019-0545-1.
+4) J. Hermann, Z. Schatzle, and F. Noe, “Deep-Neural-Network Solution of the Electronic Schr ̈odinger Equation,” Nat.Chem.12, 891–897 (2020). doi10.1038/s41557-020-0544-y.
+5) O. Fallgren, A. Fredriksson, Machine Learning Algorithms for Quantum Systems, 2023. 
+6) J. R. Sarmiento,  (2023). Machine Learning tools for Quantum Mechanics (Version 1.0) [Computer software]. https://github.com/javier-rozalen/ml-tools-for-qm (code referred to doi 10.1140/epjp/s13360-024-04983-w).
+7) A. S. Davydov (Ed.), Quantum Mechanics (Second Edition), pp. 185–206 (Pergamon, New York, 1976; Nauka,Moscow, 1973). doi10.1016/B978-0-08-020438-3.50013-6.
+8) T. Shivalingaswamy and B. A. Kagali, “Rayleigh–Ritz Variational Method for Spin-Less Relativistic Particles,” Int.J. Sci. Res.3(8), 634–638 (2014).
+9) W. Gordon, “Der Comptoneffekt nach der Schr ̈odingerschen Theorie,” Z. Physik 40, 117–133 (1926). doi10.1007/BF01390840.
+10) O. Klein, “Quantentheorie und funfdimensionale Relativitatstheorie,” Z. Physik 37, 895–906 (1926). doi10.1007/BF01397481.
+11) V. Fock, “ ̈Uber die invariante Form der Wellen- und der Bewegungsgleichungen fur einen geladenen Massenpunkt,” Z. Physik 39, 226–232 (1926). doi10.1007/BF01321989.
+12) A. N. Tikhonov, A. V. Goncharsky, V. V. Stepanov, and A. G. Yagola, Numerical Methods for the Solution of Ill-Posed Problems (Kluwer, Dordrecht, 1995).
